@@ -8,8 +8,8 @@
 ## Team Pages
 
 ### Student A (Natasha)
-- Topic: 
-- Competitor: 
+- Topic: [Archetype](archetype.md) 
+- Competitor: [Owala](owala.md)
 
 ### Student B (Pranika)
 - Topic: 
