@@ -4,7 +4,7 @@
 
 ## Quick navigation:
 - **Home:** [README](README.md)
-- **Other designs:** [Brand Archetype](archetype.md)    [Persuasion](cialdini.md)
+- **Other designs:** [Brand Archetype](archetype.md) • [Persuasion](cialdini.md)
 - **Archetype Competitor:** [Owala](owala.md)
 - **Persuasion Competitor:** [Glossier](cialdini_competitor.md)
 
