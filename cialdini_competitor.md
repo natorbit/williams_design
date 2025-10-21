@@ -5,7 +5,7 @@
 - **Home:** [README](README.md)
 - **Other designs:** [Brand Archetype](archetype.md) • [Persuasion](cialdini.md)
 - **Archetype Competitor:** [Owala](owala.md)
-- **Persuasion Competitor:** [Glossier](cialdini_competitor.md)
+- **Persuasion Competitor:** [Sephora](cialdini_competitor.md)
 
 ## 1. Reciprocity
 **Do they use it?** ✅ Yes  
