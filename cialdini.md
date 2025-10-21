@@ -1,7 +1,7 @@
 # Persuasion Principles in Marketing
 
 ## Quick navigation:
-- **Home:** [README](README)
+- **Home:** [README](README.md)
 - **Student guide:** [STUDENT-GUIDE-SIMPLIFIED.md](STUDENT-GUIDE-SIMPLIFIED.md)
 - **Other designs:** [Brand Archetype](archetype.md)
 - **Archetype Competitor:** [Owala](owala.md)
