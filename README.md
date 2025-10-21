@@ -12,5 +12,5 @@
 - Competitor: [Owala](owala.md)
 
 ### Student B (Pranika)
-- Topic: 
+- Topic: [Persuasion]
 - Competitor: 
