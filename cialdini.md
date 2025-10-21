@@ -4,7 +4,7 @@
 - **Home:** [README](README.md)
 - **Other designs:** [Brand Archetype](archetype.md)
 - **Archetype Competitor:** [Owala](owala.md)
-- **Persuasion Competitor:** [Glossier]
+- **Persuasion Competitor:** [Glossier](cialdini_competitor.md)
 
 ---
 
