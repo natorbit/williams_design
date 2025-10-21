@@ -13,4 +13,4 @@
 
 ### Student B (Pranika)
 - Topic: [Persuasion](cialdini.md)
-- Competitor: [Glossier](cialdini_competitor.md)
+- Competitor: [Sephora](cialdini_competitor.md)
