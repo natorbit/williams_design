@@ -2,6 +2,12 @@
 
 ---
 
+## Quick navigation:
+- **Home:** [README](README.md)
+- **Other designs:** [Brand Archetype](archetype.md)
+- **Archetype Competitor:** [Owala](owala.md)
+- **Persuasion Competitor:** [Glossier](cialdini_competitor.md)
+
 ## 1. Reciprocity
 **Do they use it?** ✅ Yes  
 
