@@ -9,7 +9,7 @@
 
 ### Student A (Natasha)
 - Topic: [Archetype](archetype.md) 
-- Competitor: [Owala](owala.md)
+- Competitor: [Owala](competitors/owala.md)
 
 ### Student B (Pranika)
 - Topic: [Persuasion](cialdini.md)
